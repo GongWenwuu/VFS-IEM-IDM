@@ -1,2 +1,2 @@
 # VFS-IEM-IDM
-Dynamic Risk Assessment of Compound Hazards
+Paper_Dynamic Risk Assessment of Compound Hazards
